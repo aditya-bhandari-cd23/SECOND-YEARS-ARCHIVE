@@ -1,4 +1,4 @@
-This repository contains RVCE's first year notes and question papers for the 2022 scheme. The courses are exclusive to the CS-allied branches (CSE, CD, CY, ISE, AIML). If you are new to Github, you better learn it first as being a CS student requires you to be familiar with Git and GitHub. For now just download the ZIP file (~1.1 GB). 
+This repository contains RVCE's second year notes and question papers for the 2022 scheme. The courses are exclusive to the CS-allied branches (CSE, CD, CY, ISE, AIML). If you are new to Github, you better learn it first as being a CS student requires you to be familiar with Git and GitHub. For now just download the ZIP file (~1.1 GB). 
 
 Contents:
 - 3rd sem:
@@ -18,3 +18,5 @@ Contents:
   - Biosafety Standards and Ethics (BT232AT)
   - Environment and Sustainability (CV232AT)
   - Material Science for Engineers (ME232AT)
+
+This repo is 90% complete. It will take some time to add AI/ML notes and finish this. 
