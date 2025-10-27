@@ -19,4 +19,6 @@ Contents:
   - Environment and Sustainability (CV232AT)
   - Material Science for Engineers (ME232AT)
 
-This repo is 90% complete. It will take some time to add AI/ML notes and finish this. 
+If you wish to contribute notes/qp's to this repo, please submit a pull request.
+
+Bonus: http://172.16.44.10:8080/jspui/handle/123456789/1 (can only be accessed through college wifi)
