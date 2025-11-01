@@ -19,6 +19,9 @@ Contents:
   - Environment and Sustainability (CV232AT)
   - Material Science for Engineers (ME232AT)
 
+Bonus: http://172.16.44.10:8080/jspui/handle/123456789/1 (can only be accessed through college wifi).
+
 If you wish to contribute notes/qp's to this repo, please submit a pull request.
 
-Bonus: http://172.16.44.10:8080/jspui/handle/123456789/1 (can only be accessed through college wifi)
+Anyway star this repo and [connect with me on LinkedIn](https://www.linkedin.com/in/adityabhandari781/).
+[🙏](https://discord.gg/gb68ckrRxx)
